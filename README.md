@@ -1,4 +1,4 @@
-# Helath_Analysis
+# Health_Analysis
 
 Project Title:
 Predicting Stress Levels using Linear Regression
